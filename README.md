@@ -1,7 +1,7 @@
 # Welcome to # Android clean architecture!
 
 An app which searches the movie based on key word provided
-
+This Project's architecture is based on [Mavericks Architecture](https://github.com/airbnb/mavericks)
 
 # Layer's
 
